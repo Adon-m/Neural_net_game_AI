@@ -1,0 +1,17 @@
+﻿Build started 8.11.2012 0:32:26.
+     1>Project "C:\Users\slim\Desktop\gameThesis\gameThesis\gameThesis.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\gameThesis.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         gameThesis.vcxproj -> C:\Users\slim\Desktop\gameThesis\Debug\gameThesis.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\gameThesis.unsuccessfulbuild".
+         Touching "Debug\gameThesis.lastbuildstate".
+     1>Done Building Project "C:\Users\slim\Desktop\gameThesis\gameThesis\gameThesis.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
